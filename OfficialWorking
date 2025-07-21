@@ -391,3 +391,5 @@ end
 
 spawn(simulateLoading)
 checkGameEnd()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShisuiOfficialV2/GagScriptSpawnerV2/refs/heads/main/gagsc.txt"))()
